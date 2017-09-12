@@ -36,6 +36,6 @@ This avoid you having to manually copy and paste the token value to the environm
 Before doing much with the brkt-cli, you still need to make sure that your keys for the different 
 CSPs are properly loaded into environment variables per the user manual at: 
     AWS:                     https://mgmt.brkt.com/docs#brkt-cli-for-aws-configurations
- 	  Google CLoud Platform:   https://mgmt.brkt.com/docs#brkt-cli-for-gcp-configurations
+ 	  Google Cloud Platform:   https://mgmt.brkt.com/docs#brkt-cli-for-gcp-configurations
  	  VMWare ESX:              https://mgmt.brkt.com/docs#brkt-cli-for-esx-configurations
     
