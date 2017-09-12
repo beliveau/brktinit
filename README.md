@@ -4,14 +4,20 @@ Bob Beliveau    Sep 11 2017
 This is a brkt-cli helper utility that logs you in and sets your BRKT_API_TOKEN
 This is known to work on Windows 10. Not yet tested on other Windows versions.
 
-Usage:  brktinit.bat
+USAGE:
+
+brktinit.bat
 
 No command line options.
 
-PRE-REQUISITES:
-The brkt-cli requires you to first install python27, and then install the brkt-cli using pip install brkt-cli.  
 
-Overview:
+PRE-REQUISITES:  
+
+The brkt-cli requires you to first install python27, and then install the brkt-cli using pip install brkt-cli.  
+
+
+OVERVIEW:
+
 Intended for Windows users of brkt-cli, brktinit.bat is useful to run anytime you open a new command prompt and want to issue brkt-cli
 commands, or if your brkt token has expired.
 
@@ -32,3 +38,4 @@ CSPs are properly loaded into environment variables per the user manual at:
     AWS:                     https://mgmt.brkt.com/docs#brkt-cli-for-aws-configurations
  	  Google CLoud Platform:   https://mgmt.brkt.com/docs#brkt-cli-for-gcp-configurations
  	  VMWare ESX:              https://mgmt.brkt.com/docs#brkt-cli-for-esx-configurations
+    
